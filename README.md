@@ -9,7 +9,7 @@ My main interests as they pertain to programming include...
   * I got partway through [Crafting Interpreters](https://craftinginterpreters.com), as you can see with my [kbagel](https://github.com/kbagel) repo. Hopefully one day I'll pick it back up.
 * Other sorts of computer science theory. I don't have a huge background in that quite yet but I hope to develop one soon.
   
-I'm mainly a JVM junkie, writing in Java, Kotlin, and now Clojure (sorted in the order I learned them in and coincidentally by enjoyment! :smile:).
+I'm mainly a JVM junkie, writing in Java, Kotlin, and now Clojure (sorted in the order I learned them in and coincidentally by increasing levels of enjoyment! :smile:).
 I'm a big functional programming junkie too, so languages like Haskell, Scala, and Elixir are on my list to learn in the future.
 I've also had the unfortunate experience of writing in Golang.
 
