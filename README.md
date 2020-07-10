@@ -7,6 +7,7 @@ My main interests as they pertain to programming include...
 * [**Cat & Frog Studio (formerly Kero Edit):**](https://github.com/fdeitylink/cf-studio) A modding tool for Studio Pixel's 2014 platformer [Kero Blaster](https://en.wikipedia.org/wiki/Kero_Blaster)
 * Programming languages, programming language theory, compilers, really anything of that sort!
   * I got partway through [Crafting Interpreters](https://craftinginterpreters.com), as you can see with my [kbagel](https://github.com/kbagel) repo. Hopefully one day I'll pick it back up.
+  * I did [mal (Make A Lisp)](https://github.com/fdeitylink/mal) for my high school senior thesis. A great experience and I would love to make another Lisp from scratch, and hopefully flesh it out some more!
 * Other sorts of computer science theory. I don't have a huge background in that quite yet but I hope to develop one soon.
   
 I'm mainly a JVM junkie, writing in Java, Kotlin, and now Clojure (sorted in the order I learned them in and coincidentally by increasing levels of enjoyment! :smile:).
