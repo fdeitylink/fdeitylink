@@ -3,7 +3,7 @@
 
 Hey, thanks for stopping on by my GitHub!
 
-My main interests as they pertain to programming include...
+My main interests and projects as they pertain to programming include...
 * [**Cat & Frog Studio (formerly Kero Edit):**](https://github.com/fdeitylink/cf-studio) A modding tool for Studio Pixel's 2014 platformer [Kero Blaster](https://en.wikipedia.org/wiki/Kero_Blaster)
 * Programming languages, programming language theory, compilers, really anything of that sort!
   * I got partway through [Crafting Interpreters](https://craftinginterpreters.com), as you can see with my [kbagel](https://github.com/kbagel) repo. Hopefully one day I'll pick it back up.
