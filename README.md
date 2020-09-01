@@ -12,7 +12,7 @@ My main interests and projects as they pertain to programming include...
   
 I'm mainly a JVM junkie, writing in Java, Kotlin, and now Clojure (sorted in the order I learned them in and coincidentally by increasing levels of enjoyment! :smile:).
 I'm a big functional programming junkie too, so languages like Haskell, Scala, and Elixir are on my list to learn in the future.
-I've also had the unfortunate experience of writing in Golang.
+I've also done some work in C, C++, Python, and Golang, but nothing major nor public.
 
 It's no coincidence that, writing in a Lisp dialect, I primarily use Emacs ([Doom Emacs](https://github.com/hlissner/doom-emacs) nowadays, though I used to use [Spacemacs](https://github.com/syl20bnr/spacemacs)). `evil-mode` for life!
 
