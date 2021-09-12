@@ -16,6 +16,8 @@ I've also done some work in C, C++, Python, and Golang, but nothing major nor pu
 
 It's no coincidence that, writing in a Lisp dialect, I primarily use Emacs ([Doom Emacs](https://github.com/hlissner/doom-emacs) nowadays, though I used to use [Spacemacs](https://github.com/syl20bnr/spacemacs)). `evil-mode` for life!
 
+Check out my [dotfiles](https://github.com/fdeitylink/dotfiles) too!
+
 <!--
 **fdeitylink/fdeitylink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
