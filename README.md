@@ -8,27 +8,14 @@ My main interests and projects as they pertain to programming include...
 * Programming languages, programming language theory, compilers, really anything of that sort!
   * I did [mal (Make A Lisp)](https://github.com/fdeitylink/mal) for my high school senior thesis. A great experience and I would love to make another Lisp from scratch, and hopefully flesh it out some more!
   * I am currently working through [Crafting Interpreters](https://craftinginterpreters.com), as you can see with my [cljox](https://github.com/fdeitylink/cljox) repo. I will likely interpret the second interpreter in Rust, so stay tuned!
-* Other sorts of computer science theory. I don't have a huge background in that quite yet but I hope to develop one soon.
+  * I am currently taking Compiler Construction at my university, where we are implementing a compiiler in Clojure for a Haskell-like language.
+* General computer science theory. I'm currently taking Computational Complexity at my university.
 
-I'm mainly a JVM junkie, writing in Java, Kotlin, and now Clojure (sorted in the order I learned them in and coincidentally by increasing levels of enjoyment! :smile:).
-I'm a big functional programming junkie too, so languages like Haskell, Scala, and Elixir are on my list to learn in the future.
-I've also done some work in C, C++, Python, and Golang, but nothing major nor public.
+I write a lot of code for the JVM, first in Java, then Kotlin, and now mostly Clojure!
+I'm big into functional programming as well, so I hope to learn Haskell, Scala, and Elixir in the future.
+I've worked in C, C++, Python, and Golang as well.
 
-It's no coincidence that, writing in a Lisp dialect, I primarily use Emacs ([Doom Emacs](https://github.com/doomemacs/doomemacs) nowadays, though I used to use [Spacemacs](https://github.com/syl20bnr/spacemacs)). `evil-mode` for life!
+Of course as a Clojure developer, I primarily use Emacs ([Doom Emacs](https://github.com/doomemacs/doomemacs) in particular).
+To stave off Emacs pinky, I use `evil-mode`.
 
 Check out my [dotfiles](https://github.com/fdeitylink/dotfiles) too!
-
-<!--
-**fdeitylink/fdeitylink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
